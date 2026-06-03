@@ -1,0 +1,14 @@
+exhibition booth interior, modern industrial aesthetic, metallic linear structures, warm wood accents, translucent laser-cut panels with Fujian motifs, LED linear lighting, visitors interacting with touchscreens, high detail, cinematic daylight, 35mm, photorealistic, ultra-detailed, high resolution, --ar 3:2 --v 5
+
+Suggested SDXL parameters:
+- guidance_scale: 8.5
+- steps: 28
+- sampler: Euler a or DPM++
+- resolution: 3000x2000
+
+Composition notes:
+- Bird's-eye elevated perspective showing full 8m x 6m booth within an exhibition hall context
+- Show circulation arrows lightly indicated on floor
+- Include representative people (3–6) to show scale and interaction
+- Emphasize materials: brushed metal, semi-transparent panels, warm wood accents
+- Lighting: soft daylight with subtle interior LED accents

@@ -1,0 +1,12 @@
+immersive exhibition interaction zone, dark ambient with RGB LED accents, projection mapping on semi-transparent panels, people scanning QR codes, close-up of interactive display, dramatic lighting, photorealistic, high detail, ultra-detailed, --ar 3:2 --v 5
+
+Suggested SDXL parameters:
+- guidance_scale: 9.0
+- steps: 30
+- sampler: DPM++ or Euler a
+- resolution: 3000x2000
+
+Composition notes:
+- Close-up human-scale perspective (eye level 1.5m) showing visitors interacting with touchscreens and scanning QR codes
+- Rich light contrasts, colorful LED accents and projection textures on semi-transparent panels
+- Include small scale props: product displays, labels, and signage
